@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauliusJaras
 - 👀 I’m interested in programming, data analytics, front-end and a lot more stuff that helps me improve my skills in becoming a great developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Next JS and TINA CMS
 - 💞️ I’m looking to collaborate on interesting projects that would help me learn more about web app development
 - 📫 How to reach me: Email - paulius.jaras@outlook.com or https://www.linkedin.com/in/paulius-jaras/
 
