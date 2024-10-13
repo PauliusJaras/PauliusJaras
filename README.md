@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PauliusJaras
 - 👀 I’m interested in programming, data analytics, front-end and a lot more stuff that helps me improve my skills in becoming a great developer
-- 🌱 I’m currently learning Next JS and TINA CMS
+- 🌱 I’m currently working on a project that uses Next.js and wordpress
